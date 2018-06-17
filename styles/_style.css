@@ -305,7 +305,7 @@ img.imgport:hover  /* on hover color */
 /*---------------------------------------- classes for background pictures */
 .artA
 {
-    background-image:url("assets/images/portfolio/horizontals/mountainscape_tower1_by_yamiboshi-db449lr.jpg");
+    background-image:url("../assets/images/portfolio/horizontals/mountainscape_tower1_by_yamiboshi-db449lr.jpg");
     background-color: black;
     background-size: cover;
     background-attachment: fixed;
@@ -316,7 +316,7 @@ img.imgport:hover  /* on hover color */
 }
 .artB
 {
-    background-image:url("assets/images/portfolio/horizontals/mountainscape_tower1_by_yamiboshi-db449lr.jpg");
+    background-image:url("../assets/images/portfolio/horizontals/mountainscape_tower1_by_yamiboshi-db449lr.jpg");
     background-color: black;
     background-size: cover;
     background-attachment: fixed;
