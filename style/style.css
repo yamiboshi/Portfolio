@@ -245,7 +245,7 @@ img.imgport:hover  /* on hover color */
 }
 .imgport:hover .overlayDig
 {
-    height: 10%;
+    height: 100px;
 }
 .overlayGame
 {
@@ -261,7 +261,7 @@ img.imgport:hover  /* on hover color */
 }
 .imgport:hover .overlayGame
 {
-    height: 10%;
+    height: 420px;
 }
 .overlayTrad
 {
@@ -277,7 +277,7 @@ img.imgport:hover  /* on hover color */
 }
 .imgport:hover .overlayTrad
 {
-    height: 10%;
+    height: 420px;
 }
 .overlay
 {
