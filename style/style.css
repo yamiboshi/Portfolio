@@ -236,7 +236,7 @@ img.imgport:hover  /* on hover color */
     float: left;
     position: absolute;
     bottom: -421px;
-    left: 1.5px;
+    left: 1px;
     right: 0px;
     background-color:white;
     overflow: hidden;
