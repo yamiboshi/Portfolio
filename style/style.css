@@ -223,7 +223,6 @@ img.imgport:hover  /* on hover color */
 .overlayDig
 {
     float: left;
-    opacity: 0.6;
     position: absolute;
     bottom: -421px;
     left: 1.5px;
@@ -236,11 +235,10 @@ img.imgport:hover  /* on hover color */
 }
 .imgport:hover .overlayDig
 {
-    height: 420px;
+    height: 100px;
 }
 .overlayGame
 {
-    opacity: 0.3;
     position: absolute;
     bottom: -421px;
     left: 303px;
@@ -253,11 +251,10 @@ img.imgport:hover  /* on hover color */
 }
 .imgport:hover .overlayGame
 {
-    height: 420px;
+    height: 100px;
 }
 .overlayTrad
 {
-    opacity: 0.3;
     position: absolute;
     bottom: -421px;
     left: 604.5px;
@@ -270,12 +267,11 @@ img.imgport:hover  /* on hover color */
 }
 .imgport:hover .overlayTrad
 {
-    height: 420px;
+    height: 100px;
 }
 .overlay
 {
     width: 100%;
-    opacity: 1;
     color: white;
     background-color: black;
 }
