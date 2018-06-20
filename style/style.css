@@ -232,7 +232,7 @@ img.imgport:hover  /* on hover color */
 }
 .overlayDig
 {
-    opacity: 0.3;
+    opacity: 1;
     float: left;
     position: absolute;
     bottom: -421px;
@@ -246,11 +246,11 @@ img.imgport:hover  /* on hover color */
 }
 .imgport:hover .overlayDig
 {
-    height: 100px;
+    height: 70px;
 }
 .overlayGame
 {
-    opacity: 0.3;
+    opacity: 1;
     position: absolute;
     bottom: -421px;
     left: 303px;
@@ -263,11 +263,11 @@ img.imgport:hover  /* on hover color */
 }
 .imgport:hover .overlayGame
 {
-    height: 420px;
+    height: 70px;
 }
 .overlayTrad
 {
-    opacity: 0.3;
+    opacity: 1;
     position: absolute;
     bottom: -421px;
     left: 604.5px;
@@ -280,7 +280,7 @@ img.imgport:hover  /* on hover color */
 }
 .imgport:hover .overlayTrad
 {
-    height: 420px;
+    height: 70px;
 }
 .overlay
 {
