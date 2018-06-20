@@ -1,4 +1,14 @@
 /* Building blocks and basic styles */
+@font-face 
+{
+    font-family: AR BONNIE;
+    src: url(../assets/fonts/ARBONNIE.ttf);
+}
+@font-face 
+{
+    font-family: Avenir Light;
+    src: url(../assets/fonts/Avenir-Light-07.ttf);
+}
 body
 {
     width: 100%;
