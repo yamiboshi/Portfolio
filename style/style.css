@@ -349,10 +349,12 @@ img.CMimag
     height: 15%;
     padding: 5%;
     padding-bottom: 0%;
+    padding-top: 0%;
 }
 .dev
 {
     margin: 5%;
+    margin-top: 3%;
     width: 80%;
     height: 50px;
     background-color: white;
